@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+        content="Blog sobre paisagens com significância psicológica e emocional, explorando a conexão entre o ambiente e a mente humana.">
+
+    <meta name="keywords"
+        content="paisagens, psicologia, emoção, ambiente, mente humana">
+
+    <meta name="author"
+        content="Seu Nome">
+
+    <title>Explorando Adiante</title>
+
+    <link rel="stylesheet"
+        href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Explorando Adiante</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Início</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="posts.html">Posts</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+
+    <main>
+
+        <section>
+            <h2>Bem-vindo ao Blog</h2>
+
+            <p>
+                Aqui você encontrará conteúdos sobre
+                paisagens, psicologia e emoção.
+            </p>
+
+            <button id="mensagem">
+                Clique Aqui
+            </button>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 - Explorando Adiante</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
